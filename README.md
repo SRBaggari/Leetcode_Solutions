@@ -13,6 +13,7 @@
 | [0001-two-sum](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0299-bulls-and-cows) |
 ## Linked List
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0139-word-break](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0299-bulls-and-cows) |
 ## Stack
 |  |
 | ------- |
@@ -68,4 +70,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
