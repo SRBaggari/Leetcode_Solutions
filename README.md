@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0120-triangle](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0120-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
