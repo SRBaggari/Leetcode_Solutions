@@ -6,10 +6,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0120-triangle](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0139-word-break) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0139-word-break) |
 ## Linked List
 |  |
 | ------- |
@@ -29,6 +31,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0139-word-break](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -41,4 +44,17 @@
 |  |
 | ------- |
 | [0120-triangle](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
