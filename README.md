@@ -32,6 +32,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0139-word-break) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
