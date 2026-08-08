@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0120-triangle](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0139-word-break) |
 ## Hash Table
@@ -69,6 +70,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
