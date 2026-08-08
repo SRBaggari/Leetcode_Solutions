@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0139-word-break](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0299-bulls-and-cows) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
@@ -33,6 +35,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
