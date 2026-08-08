@@ -24,6 +24,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -74,4 +75,12 @@
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0299-bulls-and-cows) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
