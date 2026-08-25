@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0031-next-permutation) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0139-word-break) |
 ## Hash Table
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -91,4 +93,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0069-sqrtx) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/SRBaggari/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
